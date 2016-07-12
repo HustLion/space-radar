@@ -81,6 +81,12 @@ Please raise on [github issue tracker](https://github.com/zz85/space-radar-elect
 
 Development
 ==
+Check that you have depdencies installed, otherwise run (this may take awhile for electron binaries)
+
+```
+npm install
+```
+
 
 Run
 
@@ -94,11 +100,7 @@ or
 npm run app
 ```
 
-Check that you have depdencies installed, otherwise run (this may take awhile for electron binaries)
 
-```
-npm install
-```
 
 Thanks
 ==
